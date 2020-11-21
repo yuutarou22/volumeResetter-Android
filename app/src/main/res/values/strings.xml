@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">volumeResetter-Android</string>
+    <string name="volume_reset">Volume Reset</string>
+</resources>
