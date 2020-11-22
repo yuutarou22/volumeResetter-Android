@@ -17,6 +17,11 @@
 
 ## 技術メモ
 [音声フォーカスの管理](https://developer.android.com/guide/topics/media-apps/audio-focus?hl=ja)
+[バックグラウンド処理ガイド](https://developer.android.com/guide/background?hl=ja)
+[反復アラームのスケジュール設定](https://developer.android.com/training/scheduling/alarms?hl=ja#set)
+[ALARMMANAGERで指定した時間に処理させる](https://techbooster.org/android/application/2166/)
+
+[]()
 []()
 []()
 []()
